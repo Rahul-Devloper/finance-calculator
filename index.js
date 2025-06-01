@@ -100,7 +100,6 @@ rl.question(
         break
 
       default:
-        console.log('Invalid option. Please try again.')
         rl.close()
     }
   }
